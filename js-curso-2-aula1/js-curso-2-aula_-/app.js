@@ -4,7 +4,7 @@
 // se eu quero adicionar algo a uma lista, eu uso o nome da lista.push = [' nome de algo que eu quero por] , isso vai incluir um alemento no final da lista.
 //se eu quero tirar um elemento da lista, faço a mesma coisa por em .pop 
 let listaDeNumerosSorteados = [];
-let numeroLimite= 10;
+let numeroLimite= 100;
 //let titulo= document.querySelector ('h1');
 //titulo.innerHTML= 'Jogo do número secreto';
 
