@@ -1,6 +1,6 @@
 # Projeto Jogo do Número Secreto
 
-Projeto utilizados nos cursos da Alura aula sobre lógica de
+Projeto utilizado no curso da Alura aula sobre lógica de
 programação, funções e listas.
 
 # Tecnologias usadas
